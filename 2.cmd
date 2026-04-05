@@ -5,7 +5,7 @@ cd /D "%~dp0"
 echo.
 echo =====================================================
 echo      NXR PERM Spoofer - SELECT YOUR MOTHERBOARD
-echo               (ASUS and HP removed)
+echo               
 echo =====================================================
 echo.
 echo Choose your motherboard manufacturer:
